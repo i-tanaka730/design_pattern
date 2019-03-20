@@ -9,11 +9,8 @@ It is a sample program of design pattern.
 - Java
 
 ## 	thanks
-This program is a modification of the program created by Hiroshi Yuki.
+This program is a modification of the program created by Hiroshi Yuki.  
 Thank you for the great program. I became very studying.
-
-## License
-[MIT](https://github.com/i-tanaka730/design_pattern/blob/master/LICENSE)
 
 ## License (Hiroshi Yuki)
 Copyright (C) 2001,2004 Hiroshi Yuki.
@@ -57,6 +54,9 @@ misrepresented as being the original software.
 元のソフトウェアと混同されるようにしてはいけない。
 
 3. いかなるソース配布からも、この注意書きは削除したり変更したりしてはならない。
+
+## License (Ikuya Tanaka)
+[MIT](https://github.com/i-tanaka730/design_pattern/blob/master/LICENSE)
 
 ## Author
 [Ikuya Tanaka](https://github.com/i-tanaka730)
