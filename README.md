@@ -8,7 +8,7 @@ It is a sample program of design pattern.
 
 - Java
 
-## 	thanks
+## 	Thanks
 This program is a modification of the program created by Hiroshi Yuki.  
 Thank you for the great program. I became very studying.
 
