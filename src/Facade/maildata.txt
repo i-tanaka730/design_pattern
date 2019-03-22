@@ -1,0 +1,3 @@
+tanaka@test.com=Taro Tanaka
+yamada@test.com=Hanako Yamada
+suzuki@test.com=Daisuke Suzuki
