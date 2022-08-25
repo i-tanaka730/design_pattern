@@ -11,10 +11,10 @@ GoFのデザインパターンにおける、**Adapterパターン**について
 
 ## 3. サンプルクラス図
 ### 3-1. ～継承を利用した方法～
-![Adapter.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/e962c054-9cf0-7dff-3df6-af40ff93cd6a.png)
+![](./images/Adapter.PNG)
 
 ### 3-2. ～委譲を利用した方法～
-![Adapter2.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/52735eb8-0893-6221-ac56-929cef6b6601.png)
+![](./images/Adapter2.PNG)
 
 ## 4. サンプルプログラム
 生徒の名前と年齢を表示するプログラムです。
