@@ -8,7 +8,7 @@ GoFのデザインパターンにおける、**Compositeパターン**につい�
 - GoFのデザインパターンでは、**構造に関するデザインパターン**に分類されます。
 
 ## 3. サンプルクラス図
-![Composite.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/45c7556e-5701-5238-4a67-9a4ae71e593b.png)
+![](./images/Composite.PNG)
 
 ## 4. サンプルプログラム
 ディレクトリ、ファイルの一覧を表示するプログラムです。
