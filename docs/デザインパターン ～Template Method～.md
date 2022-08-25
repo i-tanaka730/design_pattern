@@ -8,7 +8,7 @@ GoFのデザインパターンにおける、**Template Methodパターン**に�
 - GoFのデザインパターンでは、**振る舞いに関するデザインパターン**に分類されます。
 
 ## 3. サンプルクラス図
-![TemplateMethod.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/7402c455-7e25-42ed-874d-553feee1f60b.png)
+![](./images/TemplateMethod.PNG)
 
 ## 4. サンプルプログラム
 モンスターの名前、攻撃力、守備力を表示するプログラムです。
