@@ -9,7 +9,7 @@ GoFのデザインパターンにおける、**Factory Methodパターン**に�
 - GoFのデザインパターンでは、**生成に関するデザインパターン**に分類されます。
 
 ## 3. サンプルクラス図
-![FactoryMethod.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/b310b76b-6145-8ad8-a76e-13e3888238b3.png)
+![](./images/FactoryMethod.PNG)
 
 ## 4. サンプルプログラム
 IDカード工場から、IDカードを作成するプログラムです。
