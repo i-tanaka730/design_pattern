@@ -9,7 +9,7 @@ GoFのデザインパターンにおける、**Abstract Factoryパターン**に
 - GoFのデザインパターンでは、**生成に関するデザインパターン**に分類されます。
 
 ## 3. サンプルクラス図
-![AbstractFactory.PNG](./images/AbstractFactory.png)
+![](./images/AbstractFactory.png)
 
 ## 4. サンプルプログラム
 お気に入り一覧を、HTML形式で出力するプログラムです。
@@ -284,7 +284,7 @@ public class Main {
 ```
 
 #### 4-11. 実行結果
-![実行結果-AbstractFactory](./images/実行結果-AbstractFactory)
+![](./images/実行結果-AbstractFactory.png)
 
 ## 5. メリット
 例えば、サンプルプログラムに新たな具体的な工場を追加する場合、Factory、Link、Tray、Pageのサブクラス作り、それぞれの抽象メソッドを実装することになります。つまり、factoryパッケージのクラスが持っている抽象的な部分を具体化していくだけになります。このとき、いくら具体的な工場を追加しても、抽象的な工場を修正する必要がありません。
