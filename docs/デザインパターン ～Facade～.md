@@ -9,7 +9,7 @@ GoFのデザインパターンにおける、**Facadeパターン**について�
 - GoFのデザインパターンでは、**構造に関するデザインパターン**に分類されます。
 
 ## 3. サンプルクラス図
-![Facade.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/ef055942-1dee-3909-0c18-6ad02f248d62.png)
+![](./images/Facade.PNG)
 
 ## 4. サンプルプログラム
 ユーザーのWebページを作成するプログラムです。
