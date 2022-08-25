@@ -9,7 +9,7 @@ GoFのデザインパターンにおける、**Decoratorパターン**につい�
 - GoFのデザインパターンでは、**生成に関するデザインパターン**に分類されます。
 
 ## 3. サンプルクラス図
-![Decorator.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/880a69eb-da5f-ffb0-04e3-4a147ccd56b0.png)
+![](./images/Decorator.PNG)
 
 ## 4. サンプルプログラム
 入力した文字列に対して、枠づけ等の装飾を行うプログラムです。
