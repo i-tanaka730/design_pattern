@@ -240,7 +240,7 @@ public class Main {
 ```
 
 #### 4-8. 実行結果
-![f.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/80f21734-a8bc-0f11-2b2b-24c9af602fc1.png)
+![](./images/実行結果-Mediator.PNG)
 
 ## 5. メリット
 表示の有効/無効に関するロジックは複雑になりますが、LoginFrameクラスに仲介されています。
