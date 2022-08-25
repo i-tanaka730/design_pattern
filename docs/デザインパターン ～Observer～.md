@@ -9,7 +9,7 @@ GoFのデザインパターンにおける、**Observerパターン**につい�
 - GoFのデザインパターンでは、**振る舞いに関するデザインパターン**に分類されます。
 
 ## 3. サンプルクラス図
-![Observer.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/af79bbd1-c6dd-98b0-f6c8-f768204c240c.png)
+![](./images/Observer.PNG)
 
 ## 4. サンプルプログラム
 ランダムに数を生成し、その変化に応じて「数字」及び「*」を表示するプログラムです。
