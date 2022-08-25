@@ -198,7 +198,7 @@ Decoratorパターンでは、飾り枠(Border)も中身(StringDisplay)も共通
 - https://github.com/i-tanaka730/design_pattern
 
 ## 7. デザインパターン一覧
-- [**GoFのデザインパターンまとめ**](https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0)
+- [**GoFのデザインパターンまとめ**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/GoFのデザインパターンまとめ.md)
 
 ## 8. 参考
 今回の記事、及びサンプルプログラムは、以下の書籍を元に作成させて頂きました。
