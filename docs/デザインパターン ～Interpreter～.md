@@ -8,7 +8,7 @@ GoFのデザインパターンにおける、**Interpreterパターン**につ�
 - GoFのデザインパターンでは、**振る舞いに関するデザインパターン**に分類されます。
 
 ## 3. サンプルクラス図
-![Interpreter.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/7df23001-af26-f747-2a33-71bac0d8d238.png)
+![](./images/Interpreter.PNG)
 
 ## 4. サンプルプログラム
 テキストファイルに書かれた言語を構文解析するプログラムです。
