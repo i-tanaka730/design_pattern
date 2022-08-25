@@ -199,7 +199,7 @@ public class Main {
 ```
 
 ##### 4-6-2. HTML
-![](./images/実行結果-Builder.PNG.PNG)
+![](./images/実行結果-Builder.PNG)
 
 ## 5. メリット
 サンプルプログラムを見てみると、Mainクラスは文書の構築方法(Builderクラスのメソッド)を知りません。MainクラスはGuideクラスのconstructメソッドを呼び出すだけで、文章を構築できます。
