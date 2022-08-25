@@ -8,7 +8,7 @@ GoFのデザインパターンにおける、**Strategyパターン**につい�
 - GoFのデザインパターンでは、**振る舞いに関するデザインパターン**に分類されます。
 
 ## 3. サンプルクラス図
-![Strategy.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/8d5cab02-fef1-5c7e-e3c3-8cb2dd2d5ec2.png)
+![](./images/Strategy.PNG)
 
 ## 4. サンプルプログラム
 じゃんけんを行うプログラムです。ランダムに手を出す戦略とグーのみの手を出す戦略があります。
