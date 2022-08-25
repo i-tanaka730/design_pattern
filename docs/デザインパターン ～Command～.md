@@ -250,7 +250,7 @@ public class Main extends JFrame implements ActionListener, MouseMotionListener,
 ```
 
 #### 4-7. 実行結果
-![e.png](https://qiita-image-store.s3.amazonaws.com/0/247638/c718fb45-7dc9-6866-afb3-88fffd400bf1.png)
+![](./images/実行結果-Command.PNG)
 
 ## 5. メリット
 「命令」をオブジェクトとして表現することで、命令の履歴をとったり、命令の再実行を行ったりすることができます。
