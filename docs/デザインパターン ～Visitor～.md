@@ -9,7 +9,7 @@ GoFのデザインパターンにおける、**Visitorパターン**について
 - GoFのデザインパターンでは、**振る舞いに関するデザインパターン**に分類されます。
 
 ## 3. サンプルクラス図
-![Visitor.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/867c488f-2069-f6e8-7d93-fd9ad7b656df.png)
+![](./images/Visitor.PNG)
 
 ## 4. サンプルプログラム
 ディレクトリ、ファイルの一覧を表示するプログラムです。
