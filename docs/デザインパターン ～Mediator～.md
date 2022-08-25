@@ -9,7 +9,7 @@ GoFのデザインパターンにおける、**Mediatorパターン**につい�
 - GoFのデザインパターンでは、**振る舞いに関するデザインパターン**に分類されます。
 
 ## 3. サンプルクラス図
-![Mediator.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/707c7aa6-170b-795f-15f1-dcb806c4de3a.png)
+![](./images/Mediator.PNG)
 
 ## 4. サンプルプログラム
 ログインダイアログを表示し、テキストやボタンの有効/無効状態を制御するプログラムです。
