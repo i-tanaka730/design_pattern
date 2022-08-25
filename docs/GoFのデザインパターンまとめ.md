@@ -25,17 +25,17 @@ GoFのデザインパターン(23種)をまとめました。
 #### 2-3. 振る舞いに関するパターン
 | デザインパターン        |概要|
 |-------------------------|----|
-|[**Chain of Responsibility**](https://qiita.com/i-tanaka730/items/073c106c58d7c74c1706)  |責任のたらい回し    |
-|[**Command**](https://qiita.com/i-tanaka730/items/6f8c3423eda95c230f3b)                  |命令をクラスにする|
-|[**Interpreter**](https://qiita.com/i-tanaka730/items/adf5090cdbfd55cbc9b5)              |文法規則をクラスで表現する    |
-|[**Iterator**](https://qiita.com/i-tanaka730/items/7c178409a4d5c1e4e42b)                 |1つ1つ数え上げる    |
-|[**Mediator**](https://qiita.com/i-tanaka730/items/9f96d28d32ab3c9099d9)                 |相手は相談役1人だけ    |
-|[**Memento**](https://qiita.com/i-tanaka730/items/c664aeec431da492f5de)                  |状態を保存する    |
-|[**Observer**](https://qiita.com/i-tanaka730/items/b69cd773d81e044a2ec9)                 |状態の変化を通知する    |
-|[**State**](https://qiita.com/i-tanaka730/items/49ee4e3daa3aeaf6e0b5)                    |状態をクラスとして表現する    |
-|[**Strategy**](https://qiita.com/i-tanaka730/items/4d00c884b7ce1594f42a)                 |アルゴリズムをごっそり切り替える    |
-|[**Template Method**](https://qiita.com/i-tanaka730/items/dbeb82ac44c031fe8df9)          |具体的な処理をサブクラスに任せる    |
-|[**Visitor**](https://qiita.com/i-tanaka730/items/2e2d4fac2075b3e45ef7)                  |構造を渡り歩きながら仕事する    |
+|[**Chain of Responsibility**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Chain%20of%20Responsibility～.md)  |責任のたらい回し    |
+|[**Command**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Command～.md)                  |命令をクラスにする|
+|[**Interpreter**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Interpreter～.md)              |文法規則をクラスで表現する    |
+|[**Iterator**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Iterator～.md)                 |1つ1つ数え上げる    |
+|[**Mediator**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Mediator～.md)                 |相手は相談役1人だけ    |
+|[**Memento**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Memento～.md)                  |状態を保存する    |
+|[**Observer**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Observer～.md)                 |状態の変化を通知する    |
+|[**State**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～State～.md)                    |状態をクラスとして表現する    |
+|[**Strategy**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Strategy～.md)                 |アルゴリズムをごっそり切り替える    |
+|[**Template Method**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Template%20Method～.md)          |具体的な処理をサブクラスに任せる    |
+|[**Visitor**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Visitor～.md)                  |構造を渡り歩きながら仕事する    |
 
 ## 3. GitHub
 - https://github.com/i-tanaka730/design_pattern
