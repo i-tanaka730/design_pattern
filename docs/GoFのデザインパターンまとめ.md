@@ -5,7 +5,7 @@ GoFのデザインパターン(23種)をまとめました。
 #### 2-1. 生成に関するパターン
 | デザインパターン        |概要|
 |-------------------------|----|
-|[**Abstract Factory**](https://qiita.com/i-tanaka730/items/21c52a36bb2ffded5dde)         |関連する部品を組み合わせて製品を作る|
+|[**Abstract Factory**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Abstract%20Factory～.md)         |関連する部品を組み合わせて製品を作る|
 |[**Builder**](https://qiita.com/i-tanaka730/items/10596f3c7a7a2df806e2)                  |複雑なインスタンスを組み立てる|
 |[**Factory Method**](https://qiita.com/i-tanaka730/items/1f521866c7d699ddd093)           |インスタンス作成をサブクラスにまかせる|
 |[**Prototype**](https://qiita.com/i-tanaka730/items/c0177e17c9df5f379925)                |コピーしてインスタンスを作る|
