@@ -9,7 +9,7 @@ GoFのデザインパターンにおける、**Prototypeパターン**につい�
 - GoFのデザインパターンでは、**生成に関するデザインパターン**に分類されます。
 
 ## 3. サンプルクラス図
-![Prototype.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/d9db27f4-f670-f9f5-e0ee-eddae4ad9c49.png)
+![](./images/Prototype.PNG)
 
 ## 4. サンプルプログラム
 入力した文字列に対し、下線を引いたり、囲んだりするプログラムです。
