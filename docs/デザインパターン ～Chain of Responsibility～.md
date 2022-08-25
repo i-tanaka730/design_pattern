@@ -9,7 +9,7 @@ GoFのデザインパターンにおける、**Chain of Responsibilityパター�
 - GoFのデザインパターンでは、**振る舞いに関するデザインパターン**に分類されます。
 
 ## 3. サンプルクラス図
-![ChainofResponsibility.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/aa4dd89a-c522-9a02-32fa-dd72c49a9ac7.png)
+![](./images/ChainofResponsibility.PNG)
 
 ## 4. サンプルプログラム
 入力したトラブルを、いずれかのサポートが解決するプログラムです。
