@@ -9,7 +9,7 @@ GoFのデザインパターンにおける、**Singletonパターン**につい�
 - GoFのデザインパターンでは、**生成に関するデザインパターン**に分類されます。
 
 ## 3. サンプルクラス図
-![Singleton.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/30c05b63-aadc-51bb-9f41-7b2c6ab565b7.png)
+![](./images/Singleton.PNG)
 
 ## 4. サンプルプログラム
 シングルトンインスタンスを生成するプログラムです。
