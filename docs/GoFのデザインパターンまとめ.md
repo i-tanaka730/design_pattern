@@ -6,21 +6,21 @@ GoFのデザインパターン(23種)をまとめました。
 | デザインパターン        |概要|
 |-------------------------|----|
 |[**Abstract Factory**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Abstract%20Factory～.md)         |関連する部品を組み合わせて製品を作る|
-|[**Builder**](https://qiita.com/i-tanaka730/items/10596f3c7a7a2df806e2)                  |複雑なインスタンスを組み立てる|
-|[**Factory Method**](https://qiita.com/i-tanaka730/items/1f521866c7d699ddd093)           |インスタンス作成をサブクラスにまかせる|
-|[**Prototype**](https://qiita.com/i-tanaka730/items/c0177e17c9df5f379925)                |コピーしてインスタンスを作る|
-|[**Singleton**](https://qiita.com/i-tanaka730/items/507d323f1ebb3167b067)                |たった1つのインスタンス|
+|[**Builder**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Builder～.md)                  |複雑なインスタンスを組み立てる|
+|[**Factory Method**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Factory%20Method～.md)           |インスタンス作成をサブクラスにまかせる|
+|[**Prototype**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Prototype～.md)                |コピーしてインスタンスを作る|
+|[**Singleton**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Singleton～.md)                |たった1つのインスタンス|
 
 #### 2-2. 構造に関するパターン
 | デザインパターン        |概要|
 |-------------------------|----|
-|[**Adapter**](https://qiita.com/i-tanaka730/items/da8731c219c921d30a59)                  |一皮かぶせて再利用    |
-|[**Bridge**](https://qiita.com/i-tanaka730/items/91debf39a7f64ef6cb23)                   |機能の階層と実装の階層を分ける    |
-|[**Composite**](https://qiita.com/i-tanaka730/items/577ca124f05bfe172248)                |容器と中身の同一視    |
-|[**Decorator**](https://qiita.com/i-tanaka730/items/a0f53d70b0830cfd150b)                |飾り枠と中身の同一視    |
-|[**Facade**](https://qiita.com/i-tanaka730/items/911604bcd4136684ff1c)                   |シンプルな窓口    |
-|[**Flyweight**](https://qiita.com/i-tanaka730/items/ed32b9a7c3f9f72b59ef)                |同じものを共有して無駄をなくす    |
-|[**Proxy**](https://qiita.com/i-tanaka730/items/47efbab5eccc2d36759f)                    |必要になってから作る    |
+|[**Adapter**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Adapter～.md)                  |一皮かぶせて再利用    |
+|[**Bridge**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Bridge～.md)                   |機能の階層と実装の階層を分ける    |
+|[**Composite**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Composite～.md)                |容器と中身の同一視    |
+|[**Decorator**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Decorator～.md)                |飾り枠と中身の同一視    |
+|[**Facade**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Facade～.md)                   |シンプルな窓口    |
+|[**Flyweight**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Flyweight～.md)                |同じものを共有して無駄をなくす    |
+|[**Proxy**](https://github.com/i-tanaka730/design_pattern/blob/master/docs/デザインパターン%20～Proxy～.md)                    |必要になってから作る    |
 
 #### 2-3. 振る舞いに関するパターン
 | デザインパターン        |概要|
