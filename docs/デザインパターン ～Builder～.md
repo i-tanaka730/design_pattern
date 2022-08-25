@@ -9,7 +9,7 @@ GoFのデザインパターンにおける、**Builderパターン**について
 - GoFのデザインパターンでは、**生成に関するデザインパターン**に分類されます。
 
 ## 3. サンプルクラス図
-![Builder.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/15843f32-8de1-e959-3acb-5f6217d79c62.png)
+![](./images/Builder.PNG)
 
 ## 4. サンプルプログラム
 文書をプレーンテキスト、及びHTML形式で出力するプログラムです。
