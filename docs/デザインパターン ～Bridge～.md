@@ -11,7 +11,7 @@ GoFのデザインパターンにおける、**Bridgeパターン**について�
 - GoFのデザインパターンでは、**構造に関するデザインパターン**に分類されます。
 
 ## 3. サンプルクラス図
-![Bridge.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/de5c1a21-a37c-371d-7ef4-f305eba30bad.png)
+![](./images/Bridge.PNG)
 
 ## 4. サンプルプログラム
 入力した文字列を指定回数、及びランダム回数表示するプログラムです。
