@@ -9,7 +9,7 @@ GoFのデザインパターンにおける、**Flyweightパターン**につい�
 - GoFのデザインパターンでは、**構造に関するデザインパターン**に分類されます。
 
 ## 3. サンプルクラス図
-![Flyweight.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/2deca306-42be-4653-0166-5218f3bbc2dc.png)
+![](./images/Flyweight.PNG)
 
 ## 4. サンプルプログラム
 ファイルから大きな文字のテキストを読み込んで、それを表示するプログラムです。
