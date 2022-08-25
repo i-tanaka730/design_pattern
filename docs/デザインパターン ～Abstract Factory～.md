@@ -9,7 +9,7 @@ GoFのデザインパターンにおける、**Abstract Factoryパターン**に
 - GoFのデザインパターンでは、**生成に関するデザインパターン**に分類されます。
 
 ## 3. サンプルクラス図
-![AbstractFactory.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/8f5af214-53f8-1fd1-ebd2-7e78c90e1cd8.png)
+![AbstractFactory.PNG](./images/AbstractFactory.png)
 
 ## 4. サンプルプログラム
 お気に入り一覧を、HTML形式で出力するプログラムです。
@@ -284,7 +284,7 @@ public class Main {
 ```
 
 #### 4-11. 実行結果
-![キャプチャ.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/48e97743-fb60-eac8-f4a8-c98803d39938.png)
+![実行結果-AbstractFactory](./images/実行結果-AbstractFactory)
 
 ## 5. メリット
 例えば、サンプルプログラムに新たな具体的な工場を追加する場合、Factory、Link、Tray、Pageのサブクラス作り、それぞれの抽象メソッドを実装することになります。つまり、factoryパッケージのクラスが持っている抽象的な部分を具体化していくだけになります。このとき、いくら具体的な工場を追加しても、抽象的な工場を修正する必要がありません。
