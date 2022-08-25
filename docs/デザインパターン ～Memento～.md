@@ -10,7 +10,7 @@ GoFのデザインパターンにおける、**Mementoパターン**について
 - GoFのデザインパターンでは、**振る舞いに関するデザインパターン**に分類されます。
 
 ## 3. サンプルクラス図
-![Memento.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/3ef67f41-30c7-b6fa-36d5-e9f5d4c7b65f.png)
+![](./images/Memento.PNG)
 
 ## 4. サンプルプログラム
 振ったサイコロの目に応じて、所持金や持ち物(フルーツ)を変化させるプログラムです。
