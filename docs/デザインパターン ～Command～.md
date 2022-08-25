@@ -9,7 +9,7 @@ GoFのデザインパターンにおける、**Commandパターン**について
 - GoFのデザインパターンでは、**振る舞いに関するデザインパターン**に分類されます。
 
 ## 3. サンプルクラス図
-![Command.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/85964ae8-8d10-9de6-1615-2e380e75162f.png)
+![](./images/Command.png)
 
 ## 4. サンプルプログラム
 簡単なお絵かきプログラムです。
