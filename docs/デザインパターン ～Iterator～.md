@@ -8,7 +8,7 @@ GoFのデザインパターンにおける、**Iteratorパターン**につい�
 - GoFのデザインパターンでは、**振る舞いに関するデザインパターン**に分類されます。
 
 ## 3. サンプルクラス図
-![Iterator.PNG](https://qiita-image-store.s3.amazonaws.com/0/247638/fd193ad0-f0dc-a8ab-0ec6-4aa9a80d6b5d.png)
+![](./images/Iterator.PNG)
 
 ## 4. サンプルプログラム
 クラス(教室)に生徒を入れ、生徒の名前を順番に表示するプログラムです。
