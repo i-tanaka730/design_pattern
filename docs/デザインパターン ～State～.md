@@ -244,7 +244,7 @@ public class Main {
 ```
 
 #### 4-7. 実行結果
-![pg.png](https://qiita-image-store.s3.amazonaws.com/0/247638/01ba7266-4696-832e-8420-18498405b24e.png)
+![](./images/実行結果-State.PNG)
 
 ## 5. メリット
 **分割して統合せよ**という方針は、プログラミングによく登場します。
